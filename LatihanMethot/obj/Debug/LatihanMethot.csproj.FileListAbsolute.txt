@@ -1,0 +1,7 @@
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\bin\Debug\LatihanMethot.exe.config
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\bin\Debug\LatihanMethot.exe
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\bin\Debug\LatihanMethot.pdb
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\obj\Debug\LatihanMethot.csprojAssemblyReference.cache
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\obj\Debug\LatihanMethot.csproj.CoreCompileInputs.cache
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\obj\Debug\LatihanMethot.exe
+D:\18.11.2249\latihan4\LatihanMethot\LatihanMethot\obj\Debug\LatihanMethot.pdb
